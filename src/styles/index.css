@@ -1,0 +1,18 @@
+.row{
+    display: flex;
+    place-content: center;
+}
+.carta{
+    border-radius: 5px;
+    border: solid 1px black;
+    display: inline-block;
+    width: 257px;
+    margin: 10px;
+}
+body{
+    background: url('http://localhost:8081//img/imagen5.jpg');
+    background-size: cover;
+}
+.but{
+    margin-left: auto;
+}
